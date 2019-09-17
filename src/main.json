@@ -26,7 +26,7 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE!",
+                  "text": "It's ALIVE and kicking!",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
