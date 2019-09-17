@@ -4,8 +4,11 @@
   "description": "Apps for managing Github and Gitlab",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "http-server ./src"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }

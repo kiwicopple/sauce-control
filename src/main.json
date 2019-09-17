@@ -1,7 +1,8 @@
 {
   "$jason": {
     "head": {
-      "title": "{ ˃̵̑ᴥ˂̵̑}",
+      "title": ":)",
+      "offline": "false",
       "actions": {
         "$foreground": {
           "type": "$reload"
@@ -26,7 +27,7 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE and kicking!",
+                  "text": "It's ALIVE and kicking! Offline?",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
@@ -35,7 +36,7 @@
                 },
                 {
                   "type": "label",
-                  "text": "This is a demo app. You can make your own app by changing the url inside settings.plist",
+                  "text": "This is a demo. You can make your own app by changing the url inside settings.plist",
                   "style": {
                     "align": "center",
                     "font": "Courier",
